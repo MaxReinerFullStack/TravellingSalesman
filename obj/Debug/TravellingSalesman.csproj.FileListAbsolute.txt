@@ -1,0 +1,15 @@
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\bin\Debug\TravellingSalesman.exe.config
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\bin\Debug\TravellingSalesman.exe
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\bin\Debug\TravellingSalesman.pdb
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.csprojResolveAssemblyReference.cache
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\MainWindow.g.cs
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\App.g.cs
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman_MarkupCompile.cache
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman_MarkupCompile.lref
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\MainWindow.baml
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.g.resources
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.Properties.Resources.resources
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.csproj.GenerateResource.Cache
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.csproj.CoreCompileInputs.cache
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.exe
+C:\Users\maxre\Documents\Visual Studio 2017\Projects\TravellingSalesman\TravellingSalesman\obj\Debug\TravellingSalesman.pdb
